@@ -13,19 +13,20 @@ A makefile is already provided to you so simply just go into the correct directo
 This will automatically compile all files for you.
 
 
-## How to Run the Program
+## How to Run the Program for Testing
 
 1. Unzip the files.
 
 2. Open the terminal in the application directory.
 
-3. Type **make**
+3. Type "make"
 
-4. Run the command **test-serv**
+4. Run the program "server"
 
 5. Open another terminal in the same folder.
+**Note**: this step can be skipped if you use "server&" in the previous command, but you will be unable to see server outputs for testing 
 
-6. Then run the command **test-cli loopback address** 
+6. Then run the command "client 127.0.0.1"
 
 
 ## Using the Program

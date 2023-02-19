@@ -1,0 +1,3 @@
+Hubert	Farnsworth	20001	slurm
+Otto	Octavius	20002	octopus
+Charles	Xavier	20003	baldy

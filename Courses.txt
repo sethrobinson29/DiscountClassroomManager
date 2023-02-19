@@ -1,0 +1,6 @@
+Intro	1001	20001
+Computer Science	2001	20001
+Computer Science Again	2002	20001
+A Class	2112	20002
+Another Class	3001	20002
+Operating Systems	3513	20003

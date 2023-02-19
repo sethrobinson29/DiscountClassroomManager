@@ -31,6 +31,8 @@ This will automatically compile all files for you.
 
 ## Using the Program
 
+**Initially, you must add a folder named "Data Files" to the application directory and add Courses.txt, Logins.txt, Students.txt, and Teachers.txt to the folder. From here, the program will create the individual classroom folders when you create a classroom.**
+
 To start off using the program after you connect you will be directed to a login menu.
 The login Menu will have 2 choices:
 

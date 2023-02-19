@@ -1,8 +1,6 @@
 # DiscountClassroomManager
 A very bare bones classroom management application made by my group of 4 as a final project for Network Programming. 
 
-# Standard Classroom Manager
-This program develops a client-server application in C++.
 
 Our implementation of a client-server application allows users to create and manage teachers, students, courses, and assignments. This project was made by Seth Robinson, Robert Bausch, Ian Anderson, and Gabriel Ruiz for our Network Programming class. 
 
